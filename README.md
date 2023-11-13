@@ -4,7 +4,7 @@
 
 ## Direitos Autorais e Agradecimentos
 
-**Copyright © 2023 Instale Tecnologiaa. Todos os direitos reservados.**
+**Copyright © 2023 Instale Tecnologia. Todos os direitos reservados.**
 
 Este tutorial e o código VBA associado são fornecidos para fins educacionais e informativos. Eles fazem parte dos esforços contínuos da Instale Tecnologiaa para compartilhar conhecimento e promover a excelência na análise de dados na gestão de frota na mineração.
 
