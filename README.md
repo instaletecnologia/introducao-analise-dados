@@ -6,11 +6,11 @@
 
 **Copyright © 2023 Instale Tecnologia. Todos os direitos reservados.**
 
-Este tutorial e o código VBA associado são fornecidos para fins educacionais e informativos. Eles fazem parte dos esforços contínuos da Instale Tecnologiaa para compartilhar conhecimento e promover a excelência na análise de dados na gestão de frota na mineração.
+Este tutorial e o código VBA associado são fornecidos para fins educacionais e informativos. Eles fazem parte dos esforços contínuos da Instale Tecnologia para compartilhar conhecimento e promover a excelência na análise de dados na gestão de frota na mineração.
 
 Agradecemos à Easymine por seu apoio e permissão para usar seu nome no contexto deste tutorial. Easymine é a proprietária do sistema de gestão de frota para mineração que este tutorial aborda.
 
-Este tutorial visa capacitar profissionais e entusiastas da área a aprimorar suas habilidades em análise de dados e automação no Microsoft Excel usando VBA. Sinta-se à vontade para usar e compartilhar este recurso, desde que os devidos créditos sejam atribuídos à Instale Tecnologiaa e ao autor Geraldo Dutra Neto.
+Este tutorial visa capacitar profissionais e entusiastas da área a aprimorar suas habilidades em análise de dados e automação no Microsoft Excel usando VBA. Sinta-se à vontade para usar e compartilhar este recurso, desde que os devidos créditos sejam atribuídos à Instale Tecnologia e ao autor Geraldo Dutra Neto.
 
 Agora, vamos seguir adiante com o tutorial sobre como adicionar VBA ao Excel no Office 365.
 
