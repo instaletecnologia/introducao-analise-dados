@@ -42,6 +42,6 @@ Sub CalcularDecilesVelocidadeMedia()
         End If
     Next cell
 
-    MsgBox "Deciles para Velocidade Média calculados com sucesso!"
+MsgBox "Deciles para Velocidade Média calculados com sucesso!"
 
 End Sub

@@ -72,4 +72,6 @@ End If
         i = i + 1
     Next cell
 
+MsgBox "Deciles para Ciclo calculados com sucesso!"
+
 End Sub
